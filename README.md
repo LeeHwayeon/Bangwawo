@@ -1,6 +1,7 @@
-# Ⅰ. 서비스 소개
+<img src="https://user-images.githubusercontent.com/33210124/196694202-ff767e39-8092-4f4e-a3aa-890c7521e95b.png"><br>
+# 방과워 : Banggwawo
 
-<img src="https://user-images.githubusercontent.com/33210124/185524915-f7fd4890-ee7b-4624-aa0a-43f949a21224.png" width="40%">
+#### 🏆 삼성 청년 SW 아카데미 2학기 공통 프로젝트 대전 2반 우수상
 
 ## 💡 개요
 
