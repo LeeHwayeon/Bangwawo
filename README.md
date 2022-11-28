@@ -141,14 +141,14 @@
 
 ## 기술 소개
 ### 1. WebRTC
+![image](https://user-images.githubusercontent.com/28249948/192952997-748edc80-4c34-479b-8fc2-dcd06bf97fe8.png)
 
-![image](/uploads/44f0d65568601a7a5684c0b3444355d1/image.png)
 
 #### WebRTC 
 WebRTC(Web Real-Time Communication)는 웹 브라우저 간에 플러그인의 도움 없이 서로 통신할 수 있도록 설계된 API이다. <br>
 W3C에서 제시된 초안이며, 음성 통화, 영상 통화, P2P 파일 공유 등으로 활용될 수 있다.
 
-![image](/uploads/578aea9254e8f29cbccb649ff6277bc4/image.png)
+![image](https://user-images.githubusercontent.com/28249948/192953032-f24aec56-fda1-439a-97da-85c9695c42fc.png)
 
 #### Openvidu
 
@@ -156,7 +156,7 @@ WebRTC를 보다 간단하게 적용할 수 있고, 다양한 프레임워크와
 
 ### 2.Web Socket
 
-![image](/uploads/9efa44ec12633c1b63b8c68b73f12ca2/image.png)
+![image](https://user-images.githubusercontent.com/28249948/192953061-eea55042-7956-4d17-8b57-c64e7d78fa84.png)
 
 #### 웹소켓(WebSocket)
 웹소켓은 하나의 TCP 접속에 전이중 통신 채널을 제공하는 컴퓨터 통신 프로토콜이다. 웹소켓 프로토콜은 2011년 IETF에 의해 RFC 6455로 표준화되었으며 웹 IDL의 웹소켓 API는 W3C에 의해 표준화되고 있다. (이미지 출처 : http://www.secmem.org/blog/2019/08/17/websocket-socketio/)
@@ -169,7 +169,7 @@ WebRTC를 보다 간단하게 적용할 수 있고, 다양한 프레임워크와
 ### 3. face API
 Face API는 감정 감지를 수행하여 인간 코더의 인식된 주석에 따라 얼굴 표정에서 분노, 경멸, 혐오, 두려움, 행복, 중립, 슬픔 및 놀라움을 감지할 수 있습니다.
 
-![image](/uploads/cb16c8a4139d2ef001fe2af9f6bfdd30/image.png)
+![image](https://user-images.githubusercontent.com/28249948/192953098-64023d3e-b32e-4df8-a5b2-d633698afc27.png)
 
 
 ### 4. Web Speech API
@@ -198,6 +198,8 @@ https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
 ![마이페이지캡](https://user-images.githubusercontent.com/33210124/185527439-9689d2f3-94a0-4831-a591-c1e390e35180.png)
 ![마이페이지캡쳐](https://user-images.githubusercontent.com/33210124/185527441-6e8c0a6e-b2f8-4976-81e8-fc86a7c0f859.png)
 
+> 자세한 [서비스 화면](https://github.com/LeeHwayeon/Bangwawo/blob/master/exec/Banggwawo_4_%EC%8B%9C%EC%97%B0%20%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4.md)은 여기로!
+
 # IV. 프로젝트 진행
 
 프로젝트는 온+오프라인 병행되었습니다. 프로젝트 진행 방식은 `agail` 이고 jira를 이용하여 스프린트 관리, Notion을 이용하여 자료 공유 및 아카이브를 하였습니다.
@@ -207,28 +209,13 @@ https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
 ![Untitled 3](https://user-images.githubusercontent.com/33210124/185528436-132b97d1-1c38-4625-8f17-e9364d294b99.png)
 
 
-## Gira
+## Jira
 
-- 1주차
-<img src="https://user-images.githubusercontent.com/33210124/185528195-e4d3e6b1-d963-4fcb-89c2-3af8e294bb02.png" width="50%">
-
-- 2주차
-<img src="https://user-images.githubusercontent.com/33210124/185528197-a35566d3-e7d0-49ca-b404-7b03d29a565c.png" width="50%">
-
-- 3주차
-<img src="https://user-images.githubusercontent.com/33210124/185528200-7783bcff-bade-49f5-b3ee-f12c2a02e3c5.png" width="50%">
-
-- 4주차
-<img src="https://user-images.githubusercontent.com/33210124/185528202-082bcdae-3a3e-4b6c-ac93-e41e377ea4e0.png" width="50%">
-
-- 5주차
-<img src="https://user-images.githubusercontent.com/33210124/185528432-8df67eef-ffac-41b6-b641-7be4e2c18190.png" width="50%">
-
-- 6주차
-<img src="https://cdn.discordapp.com/attachments/996205976493502554/1010014243141193778/unknown.png" width="50%">
+<img src="https://user-images.githubusercontent.com/33210124/204172277-57420dc4-3ec7-4ec3-b57b-2855e5f7dd1c.png">   
 
 
-### Notion
+
+## Notion
 
 ![Untitled 9](https://user-images.githubusercontent.com/33210124/185528605-bb4f094b-c54e-4e6d-b9fb-fbb742e139ce.png)
 
@@ -255,21 +242,23 @@ https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
 
 ## 1. figma
 
-figma를 사용해 홈페이지의 초안을 작성합니다. 관련 레퍼런스를 참고하고, 서비스 특성에 맞게 제작했습니다.
-
-![Untitled 10](https://user-images.githubusercontent.com/33210124/185527887-99970a2f-882d-4376-b82d-8a78f3e59d6b.png)
+figma를 사용해 서비스의 초안을 작성합니다. 관련 레퍼런스를 참고하고, 아이들이 사용하는 서비스인 만큼 사용자 친화적이게 제작했습니다.
+<img src="https://user-images.githubusercontent.com/33210124/185527887-99970a2f-882d-4376-b82d-8a78f3e59d6b.png" width="70%">
 
 ## 2. design
 
-컴포넌트 단위로 디자인하였고, 마스코트 캐릭터 `옹덕` 도 그렸습니다.
-
-![Untitled 11](https://user-images.githubusercontent.com/33210124/185527892-91ff35e2-7752-43ef-b9da-f4229143a446.png)
-
-![Untitled 12](https://user-images.githubusercontent.com/33210124/185527894-e47b3392-b4e5-4d9d-9f74-2a968cd6406a.png)
+컴포넌트 단위로 디자인하였고, 방과워 마스코트 캐릭터 `옹덕` 도 그렸습니다.
+<img src="https://user-images.githubusercontent.com/33210124/185527892-91ff35e2-7752-43ef-b9da-f4229143a446.png" width="70%">
+<img src="https://user-images.githubusercontent.com/33210124/185527894-e47b3392-b4e5-4d9d-9f74-2a968cd6406a.png" width="20%">
 
 # VII. 소감 및 배운점
-- 팀 소개
-![팀소개](https://user-images.githubusercontent.com/33210124/185528250-4866c872-d5aa-495b-8f42-fce73ca8572c.png)
+- 팀 소개  
+
+|**[한윤석](https://github.com/hanyoonseok)**|**[김수빈](https://github.com/kimsubni)**|**[이화연](https://github.com/LeeHwayeon)**|**[육다빈](https://github.com/Dabisix)**|**[김진호](https://github.com/jinhoo9507)**|**[정수빈](https://github.com/Soobin07)** |
+| :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/u/28249948?v=4" width="800"> | <img src="https://avatars.githubusercontent.com/u/81076792?v=4" width="800"> | <img src="https://avatars.githubusercontent.com/u/33210124?v=4" width="800"> | <img src="https://avatars.githubusercontent.com/u/80896077?v=4" width="800"> | <img src="https://avatars.githubusercontent.com/u/97657579?v=4" width="800"> | <img src="https://avatars.githubusercontent.com/u/45987276?v=4" width="800"> |
+|Leader & Frontend|Frontend|Frontend|Backend|Backend|Backend|  
+|피드백|비밀친구|화상수업|User|게시물|수업|
 
 - 김수빈
 
