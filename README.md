@@ -47,15 +47,16 @@
 6. 시간과 공간의 제약을 없애 봉사에 대한 접근성 향상
 
 # II. 기술 스택
+<img src="https://user-images.githubusercontent.com/33210124/204407910-f6745991-9b3c-4b98-ba19-cde1096bb178.png" width="70%">  
 
-## 📋Management Tool
+### 📋Management Tool
 
 - 형상 관리 : Gitlab
 - 이슈 관리 : Jira
 - 커뮤니케이션 : Mattermost, Webex, Notion
 - 디자인 : Figma, Adobe Illustrator, Adobe Photoshop, Adobe After Effect, 3D Maya
 
-## 🦊 Front End
+### 🦊 Front End
 
 - lang: HTML5, CSS3, JAVASCRIPT, Node.js `16.16.0`
 - framework: Vue.js (Vue3)
@@ -111,7 +112,7 @@
     [Web Speech API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
   - [three.js](https://threejs.org/)
 
-## 🐳 Back End
+### 🐳 Back End
 
 - Java open-JDK zulu `8.33.0.1`
 - SpringBoot
@@ -121,11 +122,11 @@
 - Hibernate (ORM프레임워크)
 - Swagger
 
-## 🗂️ DB
+### 🗂️ DB
 
 - MySQL `8.0.29`
 
-## 🌐 Server
+### 🌐 Server
 
 - https (TLS `1.0`)
 - Ubuntu `20.0.4`
@@ -133,7 +134,7 @@
 - PuTTY `0.77`
 - Docker `20.10.17`
 
-## 🔨 IDE
+### 🔨 IDE
 
 - IntelliJ `2022.1.3`
 - MySQL Workbench `8.0.29`
@@ -240,15 +241,8 @@ https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
 
 # VI. UI/UX
 
-## 1. figma
-
-figma를 사용해 서비스의 초안을 작성합니다. 관련 레퍼런스를 참고하고, 아이들이 사용하는 서비스인 만큼 사용자 친화적이게 제작했습니다.
-<img src="https://user-images.githubusercontent.com/33210124/185527887-99970a2f-882d-4376-b82d-8a78f3e59d6b.png" width="70%">
-
-## 2. design
-
-컴포넌트 단위로 디자인하였고, 방과워 마스코트 캐릭터 `옹덕` 도 그렸습니다.
-<img src="https://user-images.githubusercontent.com/33210124/185527892-91ff35e2-7752-43ef-b9da-f4229143a446.png" width="70%">
+figma를 사용해 서비스의 초안을 작성합니다. 아이들이 사용하는 서비스인 만큼 사용자 친화적이게 컴포넌트 단위로 디자인했으며 방과워 마스코트 캐릭터 `옹덕` 도 그렸습니다.  
+<img src="https://user-images.githubusercontent.com/33210124/204407917-d13e7816-a36b-44d0-95db-aa746d10e15e.png" width="65%">
 <img src="https://user-images.githubusercontent.com/33210124/185527894-e47b3392-b4e5-4d9d-9f74-2a968cd6406a.png" width="20%">
 
 # VII. 소감 및 배운점
